@@ -1,0 +1,2 @@
+# Run this command to install the necessary dependencies:
+npm install express puppeteer cors
